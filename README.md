@@ -1,10 +1,10 @@
 # CURRICULUM VITAE
-- Nama : Alessandro D. Pangandaheng
-- TTL : Tahuna, 01 Agustus 2003
-- Jenis Kelamin : Laki-Laki
-- Agama : Kristen Protestan
-- Alamat : Tapuang
-- Telepon : 082271107675
+- Nama Lengkap         : Alessandro D. Pangandaheng
+- Tempat Tanggal Lahir : Tahuna, 01 Agustus 2003
+- Jenis Kelamin        : Laki-Laki
+- Agama                : Kristen Protestan
+- Alamat               : Tapuang
+- Telepon              : 082271107675
 
 ## Pendidikan
 - 2018 - 2021 SMK NEGERI 3 TAHUNA
